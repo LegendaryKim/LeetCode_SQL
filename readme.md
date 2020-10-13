@@ -1,3 +1,3 @@
 # LeetCode_SQL
 
-Proflems in the `database` category with ordered by frequency.
+Quizzes in the `database` category with ordered by frequency.
